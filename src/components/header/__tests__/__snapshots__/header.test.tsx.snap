@@ -1,0 +1,29 @@
+// Vitest Snapshot v1
+
+exports[`Footer renders 1`] = `
+<div
+  className="MuiBox-root css-1p89roy"
+>
+  <div
+    className="MuiBox-root css-1xhj18k"
+  >
+    <img
+      alt="aiRx"
+      height="50"
+      src="/src/assets/android-chrome-192x192.png"
+      width="50"
+    />
+    <div
+      className="MuiBox-root css-1go7of1"
+    >
+      ai
+      <strong>
+        R
+      </strong>
+      <sub>
+        x
+      </sub>
+    </div>
+  </div>
+</div>
+`;

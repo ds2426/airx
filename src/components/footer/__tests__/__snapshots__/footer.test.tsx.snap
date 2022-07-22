@@ -1,0 +1,11 @@
+// Vitest Snapshot v1
+
+exports[`Footer renders 1`] = `
+<div
+  className="MuiBox-root css-v63k1i"
+>
+  <span>
+    © 2022
+  </span>
+</div>
+`;
